@@ -1,0 +1,22 @@
+{
+  "name": "portfoliogen",
+  "version": "1.0.0",
+  "description": "This Project uses Node and Inquirer to create a Personal GitHub HTML Website",
+  "main": "app.js",
+  "scripts": {
+    "test": "node app"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HottieHotton/Portfolio-Generator.git"
+  },
+  "author": "Braxton Hotton",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/HottieHotton/Portfolio-Generator/issues"
+  },
+  "homepage": "https://github.com/HottieHotton/Portfolio-Generator#readme",
+  "dependencies": {
+    "inquirer": "^8.2.0"
+  }
+}
